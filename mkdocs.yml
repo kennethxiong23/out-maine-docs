@@ -1,4 +1,6 @@
 site_name: Prism Pines Docs
+
+site_url: https://kennethxiong23.github.io/out-maine-docs/
 theme: 
   name: material
   features:    
