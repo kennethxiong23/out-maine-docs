@@ -36,7 +36,10 @@ theme:
 
 nav:
   - Getting Started: index.md
-  - Onboarding: onboarding.md
+  - Onboarding: 
+    - onboarding/index.md
+    - Design Onboarding: onboarding/design.md
+    - Development Onboarding: onboarding/dev.md
   - Unity: 
     - unity/index.md
     - Animations: unity/animations.md
