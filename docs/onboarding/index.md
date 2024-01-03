@@ -74,6 +74,20 @@ _This step is super finicky. It just takes some practice to get used to._
 5. To create a sprite. Go to the "Game Object," click "Create Empty." Name it whatever, make sure it's between Main Camera and Grid in the heirarchy window. Then in the Inpsector click "add component." Look up "Sprite Renderer." Under the "sprite" option, click the circle with a dot in it and select an artwork to be the sprite.
 6. Do this again to make a second sprite.
 
+### Adding Movement
+
+A lot of this functionality has been built out, so you're just adding things.
+
+1. Open up your sprite in the Inspector.
+2. You're going to add three components.
+
+    - A script called "player"
+    - A Rigidbody 2D
+        - Set gravity to 0
+    - A Box Collider 2D
+
+3. Now, run the game. You should be able to use WASD to move around.
+
 For now, your done! Congrats on making a scene!!!
 
 
