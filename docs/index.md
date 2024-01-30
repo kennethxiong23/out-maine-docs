@@ -27,7 +27,7 @@ com/en/enterprise-cloud@latest/desktop/installing-and-authenticating-to-github-d
 
     _If you haven't already now is a good time to create a github account._
 
-5. Select "Clone a Repository from the Internet".  Paste "https://github.com/lilibaker/outmaine.git" into the space for a web adress. Make note of file path that the repository has been copied to. You will need it in the next step.
+5. Select "Clone a Repository from the Internet".  Paste "https://github.com/kennethxiong23/outmaine" into the space for a web adress. Make note of file path that the repository has been copied to. You will need it in the next step.
 
     _If this throws an error, reach out to Kenneth. You don't have access to the repository(oops!)._  
 
